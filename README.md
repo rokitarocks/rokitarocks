@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rokitarocks
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript ans React
+- 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me javierrocamendoza@hotmail.com
 
