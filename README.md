@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rokitarocks
+- 👋 Hi, I’m Javier Roca
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning JavaScript and React
 - 💞️ I’m looking to collaborate on New Projects
