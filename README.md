@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Javier Roca
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning JavaScript and React
+- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, MySQL
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me javierrocamendoza@hotmail.com
 
